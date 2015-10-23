@@ -1,0 +1,2 @@
+1.¿Que es RVM? -> RVM es una herramienta de línea de comandos que permite instalar fácilmente, gestionar y trabajar con múltiples entornos de rubí
+
