@@ -7,6 +7,10 @@ Hello world
 => nil
 
 
-3.¿Cu´ales son las diferencias entre la ejecuci´on del programa "Hola Mundo" con el interprete
+3.¿Cuales son las diferencias entre la ejecucion del programa "Hola Mundo" con el interprete
 de Ruby (ruby helloWorld.rb) y el interprete interactivo del ejercicio anterior?
-    La diferencias principal es que con el interprete de ruby solo se nos muestra la salida del codigo mientras que con el interprete interactivo podemos ir comprobando el codigo a medida que vamos escribiendolo ademas de que nos indica si tiene algun valor o no (nil).
+ Al ejecutar un fichero con el interprete de ruby, no se muestran los resultados de las ejecuciones de cada instrucción al ejecutar el fichero con el interprete irb, se muestra lo que devuelve cada instrucción.
+
+4. ¿Cuales son las diferencias entre la ejecucion del programa "Hola Mundo" con el interprete interactivo y con pry?
+   Al ejecutarlo con el interprete a partir del fichero, primero se carga el fichero y luego se ejecuta cada instruccion una a una
+mientras que con el interprete interactivo se escriben las instrucciones y se ejecutan inmediatamente despues de que se escriben.
