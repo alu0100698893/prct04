@@ -1,2 +1,12 @@
 1.¿Que es RVM? -> RVM es una herramienta de línea de comandos que permite instalar fácilmente, gestionar y trabajar con múltiples entornos de rubí
 
+2.¿Cual es el resultado de la siguiente operacion?
+2.2.2 :001 > puts "Hello world"
+  Respuesta:
+Hello world
+=> nil
+
+
+3.¿Cu´ales son las diferencias entre la ejecuci´on del programa "Hola Mundo" con el interprete
+de Ruby (ruby helloWorld.rb) y el interprete interactivo del ejercicio anterior?
+    La diferencias principal es que con el interprete de ruby solo se nos muestra la salida del codigo mientras que con el interprete interactivo podemos ir comprobando el codigo a medida que vamos escribiendolo ademas de que nos indica si tiene algun valor o no (nil).
